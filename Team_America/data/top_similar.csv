@@ -1,0 +1,75 @@
+,X,city_date,lat,lon,X1.Similar,X2.Similar,X3.Similar,X4.Similar,X5.Similar
+31,31,Asheville 09-12,35.595058,-82.551487,Council Bluffs 09-28,Charlotte 08-18,Bedford 09-29,Waukesha 09-28,Greenville 09-06
+32,32,Aston 09-13,39.864819,-75.425732,Roanoke 09-24,New York 09-15,Valley Forge 11-01,Des Moines 09-13,Chester Township 09-22
+18,18,Austin 08-23,30.267153,-97.743061,New York 06-22,Council Bluffs 09-28,Waukesha 09-28,Charlotte 08-18,Novi 09-30
+30,30,Baltimore 09-12,39.290385,-76.612189,Council Bluffs 09-28,Asheville 09-12,New York 06-22,Waukesha 09-28,Novi 09-30
+56,56,Bangor 10-15,44.801182,-68.777814,Newtown 10-21,Green Bay 08-05,Portsmouth 10-15,Henderson 10-05,Naples 10-23
+44,44,Bedford 09-29,42.946329,-71.513201,Council Bluffs 09-28,Waukesha 09-28,Novi 09-30,New York 06-22,Charlotte 08-18
+34,34,Canton 09-14,40.798947,-81.378447,Des Moines 09-13,Miami 09-16,Detroit 08-08,Jackson 08-24,Dimondale 08-19
+16,16,Charlotte 08-18,35.223079,-80.846097,West Bend 08-16,Council Bluffs 09-28,Waukesha 09-28,Cleveland 07-21,Jackson 08-24
+63,63,Charlotte 10-26,35.229173,-80.83991,NA,NA,NA,NA,NA
+39,39,Chester Township 09-22,39.851762,-75.402423,Roanoke 09-24,Waukesha 09-28,Bedford 09-29,Charlotte 08-18,Canton 09-14
+23,23,Cincinnati 09-01,39.099814,-84.369114,Cleveland 07-21,Chester Township 09-22,Naples 10-23,Roanoke 09-24,Virginia Beach 07-11
+8,8,Cleveland 07-21,41.49932,-81.694361,Charlotte 08-18,Jackson 08-24,Henderson 10-05,Prescott Valley 10-04,Phoenix 08-31
+27,27,Cleveland 09-08,41.484193,-81.611059,Chester Township 09-22,Charlotte 10-26,Des Moines 09-13,Roanoke 09-24,West Bend 08-16
+57,57,Colorado Springs 10-18,38.833882,-104.821363,Ocala 10-12,Raleigh 11-07,Miami 11-02,Jackson 08-24,Orlando 11-02
+54,54,Columbus 10-13,39.961176,-82.998794,Panama City 10-11,Council Bluffs 09-28,Colorado Springs 10-18,Bedford 09-29,New York 06-22
+42,42,Council Bluffs 09-28,41.261944,-95.860833,Waukesha 09-28,Bedford 09-29,Novi 09-30,New York 06-22,Charlotte 08-18
+58,58,Delaware 10-20,40.298672,-83.067965,Newtown 10-21,Green Bay 08-05,Bangor 10-15,Henderson 10-05,Colorado Springs 10-18
+33,33,Des Moines 09-13,41.600545,-93.609106,Miami 09-16,Canton 09-14,Detroit 08-08,Chester Township 09-22,Council Bluffs 09-28
+11,11,Detroit 08-08,42.329597,-83.049365,New York 09-15,Des Moines 09-13,Canton 09-14,Dimondale 08-19,Novi 09-30
+24,24,Detroit 09-03,42.331427,-83.045754,Dimondale 08-19,Pensacola 09-09,Cleveland 07-21,Jackson 08-24,Chester Township 09-22
+17,17,Dimondale 08-19,42.645591,-84.648871,Jackson 08-24,Novi 09-30,Springfield 10-27,Warren 10-31,Charlotte 08-18
+9,9,Doral 07-27,25.819542,-80.35533,Ocala 10-12,Erie 08-12,Wilmington 08-09,Raleigh 11-07,Springfield 10-27
+13,13,Erie 08-12,42.129224,-80.085059,Wilmington 08-09,Ocala 10-12,Raleigh 11-07,New York 06-16,Colorado Springs 10-18
+20,20,Everett 08-30,47.978985,-122.202079,Dimondale 08-19,Charlotte 08-18,West Bend 08-16,Jackson 08-24,Asheville 09-12
+59,59,Fletcher 10-21,35.430671,-82.501232,Newtown 10-21,Bangor 10-15,Naples 10-23,Delaware 10-20,Henderson 10-05
+61,61,Gettysburg 10-22,39.765822,-77.269609,NA,NA,NA,NA,NA
+66,66,Golden 10-29,39.755543,-105.2211,NA,NA,NA,NA,NA
+10,10,Green Bay 08-05,44.519159,-88.019826,Bangor 10-15,Delaware 10-20,Colorado Springs 10-18,Newtown 10-21,Reno 10-05
+25,25,Greenville 09-06,35.612661,-77.366354,New York 06-22,Council Bluffs 09-28,Washington 09-09,Novi 09-30,Asheville 09-12
+49,49,Henderson 10-05,36.039525,-114.981721,Prescott Valley 10-04,Reno 10-05,Bangor 10-15,Jackson 08-24,Cleveland 07-21
+38,38,High Point 09-20,35.955692,-80.005318,Manchester 06-13,New York 06-22,Council Bluffs 09-28,Waukesha 09-28,Novi 09-30
+37,37,Houston 09-17,29.760427,-95.369803,Phoenix 08-31,Charlotte 08-18,Cleveland 07-21,Phoenix 10-29,Henderson 10-05
+19,19,Jackson 08-24,32.298757,-90.18481,Dimondale 08-19,Colorado Springs 10-18,Springfield 10-27,Charlotte 08-18,Henderson 10-05
+47,47,Loveland 10-03,40.397761,-105.07498,Prescott Valley 10-04,Henderson 10-05,Bangor 10-15,New York 06-22,Detroit 08-08
+4,4,Manchester 06-13,42.99561,-71.454789,High Point 09-20,Youngstown 08-15,New York 06-22,Cleveland 07-21,Phoenix 08-31
+65,65,Manchester 10-28,42.99564,-71.454789,NA,NA,NA,NA,NA
+36,36,Miami 09-16,25.76161,-80.19179,Des Moines 09-13,Canton 09-14,Chester Township 09-22,Asheville 09-12,Roanoke 09-24
+70,70,Miami 11-02,25.76168,-80.19179,NA,NA,NA,NA,NA
+62,62,Naples 10-23,26.142036,-81.79481,NA,NA,NA,NA,NA
+1,1,New York 06-16,40.712799,-74.005941,Erie 08-12,Wilmington 08-09,Ocala 10-12,Raleigh 11-07,Gettysburg 10-22
+5,5,New York 06-22,40.723301,-74.002988,Washington 09-09,Novi 09-30,Council Bluffs 09-28,Greenville 09-06,Bedford 09-29
+7,7,New York 07-16,40.712722,-74.005941,Erie 08-12,Wilmington 08-09,Ocala 10-12,Raleigh 11-07,Colorado Springs 10-18
+35,35,New York 09-15,40.759465,-73.969745,Detroit 08-08,Des Moines 09-13,Roanoke 09-24,Newtown 10-21,Canton 09-14
+73,73,New York 11-09,40.712784,-74.005941,NA,NA,NA,NA,NA
+60,60,Newtown 10-21,40.228337,-74.93226,Delaware 10-20,Bangor 10-15,Fletcher 10-21,Green Bay 08-05,Naples 10-23
+45,45,Novi 09-30,42.48059,-83.475491,Bedford 09-29,Council Bluffs 09-28,Waukesha 09-28,New York 06-22,Warren 10-31
+52,52,Ocala 10-12,29.187199,-82.140092,Colorado Springs 10-18,Raleigh 11-07,Miami 11-02,Springfield 10-27,Orlando 11-02
+71,71,Orlando 11-02,28.538335,-81.379236,NA,NA,NA,NA,NA
+51,51,Panama City 10-11,30.158813,-85.660206,New York 06-22,Council Bluffs 09-28,Austin 08-23,Novi 09-30,Greenville 09-06
+29,29,Pensacola 09-09,30.421309,-87.216915,Jackson 08-24,Springfield 10-27,Dimondale 08-19,Colorado Springs 10-18,Ocala 10-12
+26,26,Philadelphia 09-07,39.952584,-75.165222,Washington 04-27,Washington 09-09,Greenville 09-06,Youngstown 08-15,New York 06-22
+21,21,Phoenix 08-31,33.448377,-112.074037,Houston 09-17,Cleveland 07-21,Prescott Valley 10-04,Colorado Springs 10-18,Gettysburg 10-22
+67,67,Phoenix 10-29,33.44832,-112.074037,NA,NA,NA,NA,NA
+40,40,Pittsburgh 09-22,40.440625,-79.995886,New York 09-15,Detroit 08-08,Roanoke 09-24,Chester Township 09-22,Des Moines 09-13
+55,55,Portsmouth 10-15,43.071755,-70.762553,Bangor 10-15,Green Bay 08-05,Bedford 09-29,Henderson 10-05,Prescott Valley 10-04
+48,48,Prescott Valley 10-04,34.610024,-112.315721,Henderson 10-05,Reno 10-05,Loveland 10-03,Jackson 08-24,Bangor 10-15
+46,46,Pueblo 10-03,38.254447,-104.609141,Philadelphia 09-07,Golden 10-29,Washington 04-27,Phoenix 08-31,Phoenix 10-29
+72,72,Raleigh 11-07,35.77959,-78.638179,NA,NA,NA,NA,NA
+50,50,Reno 10-05,39.529633,-119.813803,Henderson 10-05,Prescott Valley 10-04,Jackson 08-24,Bangor 10-15,Colorado Springs 10-18
+41,41,Roanoke 09-24,37.27097,-79.941427,Chester Township 09-22,Council Bluffs 09-28,Waukesha 09-28,Bedford 09-29,Miami 09-16
+64,64,Springfield 10-27,39.924227,-83.808817,NA,NA,NA,NA,NA
+69,69,Valley Forge 11-01,40.098985,-75.469097,NA,NA,NA,NA,NA
+6,6,Virginia Beach 07-11,36.852926,-75.977985,Cincinnati 09-01,Cleveland 07-21,Gettysburg 10-22,Austin 08-23,Asheville 09-12
+68,68,Warren 10-31,42.514457,-83.014653,NA,NA,NA,NA,NA
+2,2,Washington 03-21,38.907192,-77.036871,Washington 04-27,Cleveland 07-21,Ocala 10-12,Youngstown 08-15,New York 06-16
+3,3,Washington 04-27,38.897121,-77.031565,Youngstown 08-15,Cleveland 07-21,Philadelphia 09-07,Washington 09-09,Naples 10-23
+28,28,Washington 09-09,38.922397,-77.053266,New York 06-22,Council Bluffs 09-28,Novi 09-30,Bedford 09-29,Waukesha 09-28
+43,43,Waukesha 09-28,43.011678,-88.231481,Council Bluffs 09-28,Bedford 09-29,Novi 09-30,Charlotte 08-18,Roanoke 09-24
+15,15,West Bend 08-16,43.425278,-88.183428,Charlotte 08-18,Everett 08-30,Waukesha 09-28,Cleveland 07-21,Jackson 08-24
+53,53,West Palm Beach 10-13,26.715342,-80.053375,Chester Township 09-22,Dimondale 08-19,Jackson 08-24,Prescott Valley 10-04,Cleveland 09-08
+12,12,Wilmington 08-09,34.225726,-77.94471,Erie 08-12,Ocala 10-12,Raleigh 11-07,Manchester 10-28,Miami 11-02
+22,22,Wilmington 09-01,39.445339,-83.828537,Novi 09-30,Dimondale 08-19,Detroit 08-08,New York 06-22,Bedford 09-29
+14,14,Youngstown 08-15,41.09978,-80.649519,Manchester 06-13,High Point 09-20,Washington 04-27,Cleveland 07-21,Springfield 10-27
+74,74,all,all,all,Choose a Speech,,,,
